@@ -1,6 +1,6 @@
 {
   "Name": "CloudFusion",
-  "Description": null,
-  "Cover_Image": "",
-  "Main_ReadMe": ""
+  "Description": "A full-stack freelancing website for companies to contract students to meet their software development needs using React, TailwindCSS, and an integrated Stripe payment platform. The website connects the front end to the back end and database using AWS DynamoDB, Cloudfront, RDS, EC2, and S3.",
+  "Cover_Image": "./https://github.com/ColeBranston/cloudFusion/blob/main/Video1.gif",
+  "Main_ReadMe": "./README.md"
 }
